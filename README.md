@@ -1,1 +1,1 @@
-# website_django
+# simple website in python using django farmework
